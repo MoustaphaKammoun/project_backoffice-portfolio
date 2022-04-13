@@ -3,7 +3,7 @@
 $db_servername = "localhost";
 $db_dbname = "db_project-portfolio";
 $db_username = "phpmyadmin";
-$db_password = "";
+$db_password = "el4AP0IordMskcCQ";
 
 try {
     $db = new PDO("mysql:host=$db_servername;dbname=$db_dbname", $db_username, $db_password);
